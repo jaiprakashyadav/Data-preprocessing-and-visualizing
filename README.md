@@ -1,0 +1,2 @@
+# Data-preprocessing-and-visualizing
+Worked on Seismic-Bumps Data Set and handled the missing values with outlier analyses. Pre- processing of data by Normalization of attributes , classification of tuple using KNN and Bayes  classifier. Built the simple linear and non linear regression model using polynomial curve fitting and also applied k-means , GMM and DBSCAN clustering on the given data set.
